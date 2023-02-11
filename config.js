@@ -4,24 +4,24 @@ import { fileURLToPath } from 'url'
 
 
 //Make Changes According to Your Need
-global.bname = 'Wiley-md'     //Your Bot Name
-global.oname = 'Gariox & Shizo'     //Your Name
+global.bname = 'IMALSHA MD'     //Your Bot Name
+global.oname = 'IMALSHA MD'     //Your Name
 global.iglink = 'https://Instagram.com/shizo_the_tech'     //Your Instagram Link
 global.ytlink = 'https://YouTube.com/@errormodsyt'      //Your YouTube Channel Link
-global.stkpack = 'Wiley-MD'      //Here name tha your want on sticker
+global.stkpack = 'IMALSHA MD'      //Here name tha your want on sticker
 
 
 
 global.owner = [
-  ['919172389527', 'Shizo The Techie', true],
-  ['916207142994', 'Gariox 3D', true]
+  ['94718628230', 'Shizo The Techie', true],
+  ['94718628230', 'Gariox 3D', true]
 ] 
 global.prems = []
 
 
 // Sticker WM
-global.packname = 'TE DEVELOPERS'
-global.author = 'Wiley-md'
+global.packname = 'IMALSHA'
+global.author = 'IMALSHA-md'
 
 global.copyright = 'TE DEVELOPERS'
 global.packname = 'Wiley-md'
